@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TodoList_app</string>
+    <string name="add">add</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="home_screen">Home screen</string>
+    <string name="my_name">My Name</string>
+    <string name="my_email">My Email</string>
+    <string name="my_phone">My Phone</string>
+    <string name="my_password">My Password</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/my_name"
+        android:id="@+id/myname"
+        android:icon="@drawable/person"
+        />
+    <item
+        android:title="@string/my_email"
+        android:icon="@drawable/email"
+        android:id="@+id/myemail"
+        />
+    <item
+        android:title="@string/my_phone"
+        android:icon="@drawable/phone"
+        android:id="@+id/myphone"
+        />
+    <item
+        android:title="@string/my_password"
+        android:icon="@drawable/passworld"
+        android:id="@+id/password"
+        />
+</menu>
